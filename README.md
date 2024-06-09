@@ -5,8 +5,8 @@ Welcome to the repository for my virtual internship at Prodigy Infotech. Below y
 ## Task 1: [Implement Caeser Cipher]
 
 **Details:**
-- Description of what the task involved.
-- Any specific requirements or technologies used.
+- The Caesar Cipher is a simple encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+
 
 **Repository Link:**
 [Link to Task 1 Repository](https://github.com/teayab/PRODIGY_CS_01)
